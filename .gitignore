@@ -1,4 +1,7 @@
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+dask-*/
+
 data/raw_data/
 data/processed_data/
-dask-*/
-.ipynb_checkpoints/
